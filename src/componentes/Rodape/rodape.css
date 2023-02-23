@@ -1,0 +1,33 @@
+.footer{
+display: flex;
+color: #FFF;
+font-size: 24px;
+font-weight: 600;
+background-color: #6278F7;
+padding: 80px;
+justify-content: space-between;
+align-items: center;
+/* max-height: 100 */
+}
+
+.footer ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer .texto-footer{
+    cursor: pointer; 
+    text-decoration: none;
+    color: #FFF;
+}
+
+/* .rodape .p{
+    font-size: 24px;
+    font-weight: 600;
+} */
+
+
+/* .rodape img{
+    max-width: 100%;
+} */
